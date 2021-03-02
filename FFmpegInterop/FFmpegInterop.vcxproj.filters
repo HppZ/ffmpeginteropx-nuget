@@ -197,9 +197,6 @@
     <None Include="..\README.md">
       <Filter>Build</Filter>
     </None>
-    <None Include="FFmpegInteropLibs.props">
-      <Filter>Build</Filter>
-    </None>
     <None Include="packages.config" />
     <None Include="..\Build-FFmpeg.ps1">
       <Filter>Build</Filter>
@@ -212,18 +209,6 @@
     </None>
     <None Include="..\Build-FFmpegInteropX.ps1">
       <Filter>Build</Filter>
-    </None>
-    <None Include="..\FFmpegInteropX.FFmpegUWP.nuspec">
-      <Filter>NuGet</Filter>
-    </None>
-    <None Include="..\FFmpegInteropX.FFmpegUWP.targets">
-      <Filter>NuGet</Filter>
-    </None>
-    <None Include="..\FFmpegInteropX.nuspec">
-      <Filter>NuGet</Filter>
-    </None>
-    <None Include="..\FFmpegInteropX.targets">
-      <Filter>NuGet</Filter>
     </None>
     <None Include="..\NuGet.Config">
       <Filter>NuGet</Filter>
